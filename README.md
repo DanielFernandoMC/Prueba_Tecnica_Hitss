@@ -1,5 +1,5 @@
 # Instructivo de Desarrollo de la Prueba Técnica - Hitss
-####Este instructivo describe el proceso de desarrollo, análisis y entrega de la prueba técnica para la vacante de Analista de Datos Estándar, realizada con base en las instrucciones proporcionadas. El flujo de trabajo incluye programación en Python, procesamiento de datos, visualización interactiva en Power BI y documentación técnica en PDF, todo alojado en un repositorio de GitHub.
+#### Este instructivo describe el proceso de desarrollo, análisis y entrega de la prueba técnica para la vacante de Analista de Datos Estándar, realizada con base en las instrucciones proporcionadas. El flujo de trabajo incluye programación en Python, procesamiento de datos, visualización interactiva en Power BI y documentación técnica en PDF, todo alojado en un repositorio de GitHub.
 
 ## 1. Desarrollo del Proceso en Python
 #### El desarrollo inicial de la prueba se realizó mediante el archivo '2. Desarrollo_Prueba_Hitss.py'. En este script se implementaron procesos de limpieza, transformación y análisis de datos utilizando librerías como pandas y scikit-learn. Las metodologías aplicadas incluyeron:
